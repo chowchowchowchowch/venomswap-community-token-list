@@ -214,5 +214,14 @@
     "name": "Fraterium Rent",
     "decimals": 9,
     "logoURI": "https://drive.google.com/file/d/1qLaSrRdgEbK8ibxhEp3zrYWGaOyzSybI/view?usp=sharing"
+   }, 
+   {
+    "chainId": 1666600000,
+    "address": "0x8CBB6462e743f3a559A4Ca164f383037702b077E",
+    "symbol": "CHOW",
+    "name": "CHOW",
+    "decimals": 18,
+    "logoURI": "https://i.imgur.com/9pAobQx.jpeg"
+    
   }
 ]
